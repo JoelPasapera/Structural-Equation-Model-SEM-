@@ -1,21 +1,15 @@
 """
 =================================================================================
-COMPREHENSIVE STRUCTURAL EQUATION MODELING (SEM) ANALYSIS - CORRECTED VERSION
+COMPREHENSIVE STRUCTURAL EQUATION MODELING (SEM) ANALYSIS
 =================================================================================
-A research-grade implementation for advanced SEM analysis using rpy2 and lavaan
-
-FIXES APPLIED:
-- Corrected fit.measures parameter syntax for lavaan
-- Fixed output directory paths
-- Improved error handling
-- Enhanced data generation with validation
+A research-grade implementation for SEM analysis using rpy2 and lavaan
 
 Requirements:
 - R with lavaan package installed
 - Python packages: rpy2, numpy, pandas, matplotlib, seaborn
 
-Author: Research Analytics Team
-Date: 2025 (Corrected Version)
+Author: Joel Pasapera
+Date: 7/11/2025
 =================================================================================
 """
 
