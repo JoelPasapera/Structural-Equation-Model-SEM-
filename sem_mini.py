@@ -102,3 +102,4 @@ fit_measures_df = pd.DataFrame(
 ).set_index("measure")
 
 print(fit_measures_df.loc[["cfi", "rmsea", "srmr"], :])
+
