@@ -424,6 +424,7 @@ def custom_model():
 - Cross Validated (stats.stackexchange.com)
 - R-SIG-Mixed Models mailing list
 - lavaan Google Group
+- Journal of Open Source Software
 
 ### Software Alternatives
 
