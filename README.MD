@@ -444,7 +444,7 @@ If you use this framework in your research, please cite:
 ```bibtex
 @software{comprehensive_sem_2025,
   title = {Comprehensive Structural Equation Modeling Analysis Framework},
-  author = {Research Analytics Team},
+  author = {Joel Pasapera},
   year = {2025},
   version = {1.0},
   note = {Python implementation with lavaan integration}
